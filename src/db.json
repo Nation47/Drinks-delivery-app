@@ -1,0 +1,25 @@
+{
+  "drinks": [
+    {
+      "id": "626f",
+      "name": "cofee",
+      "price": "2000",
+      "ingredients": "cocoa",
+      "order": true
+    },
+    {
+      "id": "1840",
+      "name": "chai",
+      "price": "2000",
+      "ingredients": "chai, maji sugar",
+      "order": false
+    },
+    {
+      "id": "40c1",
+      "name": "Juice",
+      "price": "2000",
+      "ingredients": "fruits, sugar, water",
+      "order": false
+    }
+  ]
+}
